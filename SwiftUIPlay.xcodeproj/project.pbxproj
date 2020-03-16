@@ -16,6 +16,7 @@
 		B62F76D52404EC0D009C0955 /* Ch2Text.swift in Sources */ = {isa = PBXBuildFile; fileRef = B62F76D42404EC0D009C0955 /* Ch2Text.swift */; };
 		B630A646240E724700BF7606 /* ImplicitAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630A645240E724700BF7606 /* ImplicitAnimation.swift */; };
 		B630A648240E754900BF7606 /* LoadingIndicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = B630A647240E754900BF7606 /* LoadingIndicator.swift */; };
+		B6692EE1241F7D95005FA219 /* Gestures.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6692EE0241F7D95005FA219 /* Gestures.swift */; };
 		B66EE776240D439500CD1D2B /* Me.m4a in Resources */ = {isa = PBXBuildFile; fileRef = B66EE775240D439500CD1D2B /* Me.m4a */; };
 		B6734B222410DB6900E1BC8D /* Transitions.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6734B212410DB6900E1BC8D /* Transitions.swift */; };
 		B6734B242410DEC800E1BC8D /* ButtonAnimation.swift in Sources */ = {isa = PBXBuildFile; fileRef = B6734B232410DEC800E1BC8D /* ButtonAnimation.swift */; };
@@ -57,6 +58,7 @@
 		B62F76D42404EC0D009C0955 /* Ch2Text.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Ch2Text.swift; sourceTree = "<group>"; };
 		B630A645240E724700BF7606 /* ImplicitAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ImplicitAnimation.swift; sourceTree = "<group>"; };
 		B630A647240E754900BF7606 /* LoadingIndicator.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoadingIndicator.swift; sourceTree = "<group>"; };
+		B6692EE0241F7D95005FA219 /* Gestures.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Gestures.swift; sourceTree = "<group>"; };
 		B66EE775240D439500CD1D2B /* Me.m4a */ = {isa = PBXFileReference; lastKnownFileType = file; path = Me.m4a; sourceTree = "<group>"; };
 		B6734B212410DB6900E1BC8D /* Transitions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Transitions.swift; sourceTree = "<group>"; };
 		B6734B232410DEC800E1BC8D /* ButtonAnimation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ButtonAnimation.swift; sourceTree = "<group>"; };
@@ -131,6 +133,7 @@
 				B6734BAF24136D5000E1BC8D /* Ch10ListAndNaviagtion.swift */,
 				B6734BB124136E2000E1BC8D /* Ch11 */,
 				B6734BB824136F6400E1BC8D /* Ch12 */,
+				B6692EE0241F7D95005FA219 /* Gestures.swift */,
 				B62F76C62404E8F5009C0955 /* Assets.xcassets */,
 				B62F76CB2404E8F5009C0955 /* LaunchScreen.storyboard */,
 				B62F76CE2404E8F5009C0955 /* Info.plist */,
@@ -319,6 +322,7 @@
 				B6AAA2D1240CEAB9002CFE66 /* SwiftUIPie.swift in Sources */,
 				B6734BBA24136F8F00E1BC8D /* DetailView.swift in Sources */,
 				B630A648240E754900BF7606 /* LoadingIndicator.swift in Sources */,
+				B6692EE1241F7D95005FA219 /* Gestures.swift in Sources */,
 				B6734BBC24136FB600E1BC8D /* ModalView.swift in Sources */,
 				B6AAA2A6240B8CCE002CFE66 /* ExerciseBinding.swift in Sources */,
 				B6AAA2A2240B85F4002CFE66 /* SwiftUIState.swift in Sources */,
